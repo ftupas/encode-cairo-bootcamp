@@ -3,3 +3,8 @@ protostar_version = "0.6.0"
 
 ["protostar.project"]
 libs_path = "."
+
+["protostar.contracts"]
+storage = [
+    "homework_6/contracts/storage/storage.cairo",
+]
