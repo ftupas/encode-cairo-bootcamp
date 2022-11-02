@@ -8,3 +8,9 @@ libs_path = "."
 storage = [
     "homework_6/contracts/storage/storage.cairo",
 ]
+storage_ownable = [
+    "homework_7/contracts/storage/storage.cairo",
+]
+
+["protostar.shared_command_configs"]
+cairo_path = ["./cairo_contracts/src"]
