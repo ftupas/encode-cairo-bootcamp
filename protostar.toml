@@ -11,6 +11,9 @@ storage = [
 storage_ownable = [
     "homework_7/contracts/storage/storage.cairo",
 ]
+erc20 = [
+    "homework_8/contracts/erc20/erc20.cairo",
+]
 
 ["protostar.shared_command_configs"]
 cairo_path = ["./cairo_contracts/src"]
