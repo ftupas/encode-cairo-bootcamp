@@ -131,3 +131,6 @@ dmypy.json
 
 # System
 .DS_Store
+
+# Node modules
+homework_10/starknet_js_demo/node_modules
