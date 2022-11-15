@@ -23,6 +23,9 @@ consortium = [
 shame_coin = [
     "homework_13/contracts/erc20/shame_coin.cairo",
 ]
+warp_erc20 = [
+    "homework_14/contracts/warp_cairo/ERC20__WC__WARP.cairo"
+]
 
 ["protostar.shared_command_configs"]
 cairo_path = ["./cairo_contracts/src"]
