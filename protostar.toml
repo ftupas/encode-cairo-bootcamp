@@ -20,6 +20,9 @@ erc721 = [
 consortium = [
     "homework_12/contracts/consortium/consortium.cairo",
 ]
+shame_coin = [
+    "homework_13/contracts/erc20/shame_coin.cairo",
+]
 
 ["protostar.shared_command_configs"]
 cairo_path = ["./cairo_contracts/src"]
